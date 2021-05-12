@@ -17,7 +17,12 @@ function factorials(num) {
 // output: 20
 
 function rangeTotal(n1, n2) {
-
+  for(i = 0; i < n2; i++){
+    total = n1 += [i]
+    console.log(total)
+    return  
+      total
+  }
 }
 
 // ------------------------------------------
